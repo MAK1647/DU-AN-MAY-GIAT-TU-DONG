@@ -1,0 +1,9 @@
+E:\C AND C++\writesinglecoil\writesinglecoil\writesinglecoil\bin\Debug\writesinglecoil.exe.config
+E:\C AND C++\writesinglecoil\writesinglecoil\writesinglecoil\bin\Debug\writesinglecoil.exe
+E:\C AND C++\writesinglecoil\writesinglecoil\writesinglecoil\bin\Debug\writesinglecoil.pdb
+E:\C AND C++\writesinglecoil\writesinglecoil\writesinglecoil\obj\Debug\writesinglecoil.Form1.resources
+E:\C AND C++\writesinglecoil\writesinglecoil\writesinglecoil\obj\Debug\writesinglecoil.Properties.Resources.resources
+E:\C AND C++\writesinglecoil\writesinglecoil\writesinglecoil\obj\Debug\writesinglecoil.csproj.GenerateResource.Cache
+E:\C AND C++\writesinglecoil\writesinglecoil\writesinglecoil\obj\Debug\writesinglecoil.exe
+E:\C AND C++\writesinglecoil\writesinglecoil\writesinglecoil\obj\Debug\writesinglecoil.pdb
+E:\C AND C++\writesinglecoil\writesinglecoil\writesinglecoil\obj\Debug\writesinglecoil.csprojResolveAssemblyReference.cache

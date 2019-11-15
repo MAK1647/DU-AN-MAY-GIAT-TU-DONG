@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "writesinglecoil", "writesinglecoil\writesinglecoil.csproj", "{849F1B3C-5A3F-468E-A70B-2602B1812F2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DELTA DVP Series PLC Core", "C:\Users\dell\Desktop\PLC\DELTA DVP Series PLC\DELTA DVP Series PLC Core\DELTA DVP Series PLC Core.csproj", "{56826E0B-CFCE-4655-8367-830BBEFD059D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{849F1B3C-5A3F-468E-A70B-2602B1812F2D}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{849F1B3C-5A3F-468E-A70B-2602B1812F2D}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{849F1B3C-5A3F-468E-A70B-2602B1812F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{849F1B3C-5A3F-468E-A70B-2602B1812F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{849F1B3C-5A3F-468E-A70B-2602B1812F2D}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{849F1B3C-5A3F-468E-A70B-2602B1812F2D}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{849F1B3C-5A3F-468E-A70B-2602B1812F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{849F1B3C-5A3F-468E-A70B-2602B1812F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{849F1B3C-5A3F-468E-A70B-2602B1812F2D}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{849F1B3C-5A3F-468E-A70B-2602B1812F2D}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{56826E0B-CFCE-4655-8367-830BBEFD059D}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{56826E0B-CFCE-4655-8367-830BBEFD059D}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{56826E0B-CFCE-4655-8367-830BBEFD059D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56826E0B-CFCE-4655-8367-830BBEFD059D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56826E0B-CFCE-4655-8367-830BBEFD059D}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{56826E0B-CFCE-4655-8367-830BBEFD059D}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{56826E0B-CFCE-4655-8367-830BBEFD059D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56826E0B-CFCE-4655-8367-830BBEFD059D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56826E0B-CFCE-4655-8367-830BBEFD059D}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{56826E0B-CFCE-4655-8367-830BBEFD059D}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36FA7EBD-4305-495A-B087-93B274E96F97}
+	EndGlobalSection
+EndGlobal
